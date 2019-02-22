@@ -1,0 +1,29 @@
+body
+{
+	background-color: rgb(230,230,230);
+	padding-bottom: 5%;
+}
+
+h1
+{
+	padding-top: 1%;
+}
+
+p
+{
+	padding-top: 0.5%;
+}
+
+.btn-back
+{
+	position: fixed;
+	top: 20px;
+	right: 40px;
+	width: 100px;
+	z-index: 1000;
+}
+
+.lien-projects
+{
+	font-size: 1.5em;
+}
